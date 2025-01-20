@@ -1,4 +1,4 @@
-# Análise do Mercado Geral - Projeto de Automação com Cypress
+# Análise do Mercado EA FC 25 - Projeto de Automação com Cypress
 
 Este projeto é um conjunto de scripts automatizados utilizando o framework **Cypress** para realizar análises e capturas de dados de um mercado de jogadores de futebol, focando em várias classificações e estatísticas. O objetivo é coletar informações como o percentual do mercado e os jogadores mais vendidos, registrando esses dados em arquivos CSV e enviando atualizações através de Webhooks.
 
